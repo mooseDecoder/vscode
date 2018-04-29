@@ -1,0 +1,10 @@
+/Users/thalassau/vscode/bin/Debug/netcoreapp2.0/vscode.deps.json
+/Users/thalassau/vscode/bin/Debug/netcoreapp2.0/vscode.runtimeconfig.json
+/Users/thalassau/vscode/bin/Debug/netcoreapp2.0/vscode.runtimeconfig.dev.json
+/Users/thalassau/vscode/bin/Debug/netcoreapp2.0/vscode.dll
+/Users/thalassau/vscode/bin/Debug/netcoreapp2.0/vscode.pdb
+/Users/thalassau/vscode/obj/Debug/netcoreapp2.0/vscode.csproj.CoreCompileInputs.cache
+/Users/thalassau/vscode/obj/Debug/netcoreapp2.0/vscode.AssemblyInfoInputs.cache
+/Users/thalassau/vscode/obj/Debug/netcoreapp2.0/vscode.AssemblyInfo.cs
+/Users/thalassau/vscode/obj/Debug/netcoreapp2.0/vscode.dll
+/Users/thalassau/vscode/obj/Debug/netcoreapp2.0/vscode.pdb
