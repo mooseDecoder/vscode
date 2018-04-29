@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace vscode
+namespace vscode 
 {
     class Program
     {
@@ -22,6 +22,7 @@ namespace vscode
                 foreach (var blog in db.Blogs)
                 {
                     Console.WriteLine(" - {0}", blog.Url);
+                    //this is a test
                 }
             }
         }
